@@ -3,10 +3,10 @@
 Welcome to my portfolio repository! This repository contains the source code and assets for my personal portfolio website. Feel free to explore the projects I've worked on, learn more about my skills and experiences, and get in touch with me.
 
 ## Table of Contents
-- [About](#about)
-- [Projects](#projects)
-- [Skills](#skills)
-- [Contact](#contact)
+- [About]
+- [Projects]
+- [Skills]
+- [Contact]
 
 ## About
 I am a passionate software engineering student at James Madison University. My journey is defined by dedication to community engagement and fostering learning. I've contributed meaningfully through various projects and experiences. Learn more about me on the [portfolio website](#).
